@@ -16,6 +16,9 @@ When the user clicks the Submit button, if there are validation errors, they sho
 If all inputs are valid, display a success message and clear all fields.
 When the user clicks the Clear button, make all fields empty.
 
+<img src="https://github.com/alaaqzaih/PITS-Frontend-Assignment/blob/main/task1.png" width="600" height="400">
+
+
 # Task 2: Retrieve Data from an Open-Source API
 ##API Endpoint
 You need to request data from the following open-source API: Universities API
@@ -29,5 +32,7 @@ Retrieve data from the API and display it in a table format. The table  shows in
 -Number of domains
 # #Limitation
 -Display only the first 20 records from the API.
+
+<img src="https://github.com/alaaqzaih/PITS-Frontend-Assignment/blob/main/task2.png" width="600" height="400">
 
 
